@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Welcome to __Helm: Getting Started!__ course
